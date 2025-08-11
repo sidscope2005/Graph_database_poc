@@ -1,0 +1,1237 @@
+ANZSCO Code,Occupation,ANZSCO Code  DIGITS
+1111,Chief Executives and Managing Directors,4
+1112,General Managers,4
+1113,Legislators,4
+1211,Aquaculture Farmers,4
+1212,Crop Farmers,4
+1213,Livestock Farmers,4
+1214,Mixed Crop and Livestock Farmers,4
+1311,"Advertising, Public Relations and Sales Manager",4
+1321,Corporate Services Managers,4
+1322,Finance Managers,4
+1323,Human Resource Managers,4
+1324,Policy and Planning Managers,4
+1325,Research and Development Managers,4
+1331,Construction Managers,4
+1332,Engineering Managers,4
+1333,"Importers, Exporters and Wholesalers",4
+1334,Manufacturers,4
+1335,Production Managers,4
+1336,"Supply, Distribution and Procurement Managers",4
+1341,Child Care Centre Managers,4
+1342,Health and Welfare Services Managers,4
+1343,School Principals,4
+1344,Other Education Managers,4
+1351,ICT Managers,4
+1391,Commissioned Officers (Management),4
+1392,Senior Non-Commissioned Defence Force Officers,4
+1399,Other Specialist Managers,4
+1411,Cafe and Restaurant Managers,4
+1412,Caravan Park and Camping Ground Managers,4
+1413,Hotel and Motel Managers,4
+1414,Licensed Club Managers,4
+1419,Other Accommodation and Hospitality Managers,4
+1421,Retail Managers,4
+1491,"Amusement, Fitness and Sports Centre Managers",4
+1492,"Call, Contact Centre and Customer Service Managers",4
+1493,Conference and Event Organisers,4
+1494,Transport Services Managers,4
+1499,"Other Hospitality, Retail and Service Managers",4
+2111,"Actors, Dancers and Other Entertainers",4
+2112,Music Professionals,4
+2113,Photographers,4
+2114,Visual Arts and Crafts Professionals,4
+2121,"Artistic Directors, Media Producers and Presenters",4
+2122,"Authors, and Book and Script Editors",4
+2123,"Film, Television, Radio and Stage Directors",4
+2124,Journalists and Other Writers,4
+2211,Accountants,4
+2212,"Auditors, Company Secretaries and Corporate Treasurers",4
+2221,Financial Brokers,4
+2222,Financial Dealers,4
+2223,Financial Investment Advisers and Managers,4
+2231,Human Resource Professionals,4
+2232,ICT Trainers,4
+2233,Training and Development Professionals,4
+2241,"Actuaries, Mathematicians and Statisticians",4
+2242,"Archivists, Curators and Records Managers",4
+2243,Economists,4
+2244,Intelligence and Policy Analysts,4
+2245,Land Economists and Valuers,4
+2246,Librarians,4
+2247,Management and Organisation Analysts,4
+2249,Other Information and Organisation Professionals,4
+2251,Advertising and Marketing Professionals,4
+2252,ICT Sales Professionals,4
+2253,Public Relations Professionals,4
+2254,Technical Sales Representatives,4
+2311,Air Transport Professionals,4
+2312,Marine Transport Professionals,4
+2321,Architects and Landscape Architects,4
+2322,Surveyors and Spatial Scientists,4
+2323,"Fashion, Industrial and Jewellery Designers",4
+2324,"Graphic and Web Designers, and Illustrators",4
+2325,Interior Designers,4
+2326,Urban and Regional Planners,4
+2331,Chemical and Materials Engineers,4
+2332,Civil Engineering Professionals,4
+2333,Electrical Engineers,4
+2334,Electronics Engineers,4
+2335,"Industrial, Mechanical and Production Engineers",4
+2336,Mining Engineers,4
+2339,Other Engineering Professionals,4
+2341,Agricultural and Forestry Scientists,4
+2342,"Chemists, and Food and Wine Scientists",4
+2343,Environmental Scientists,4
+2344,"Geologists, Geophysicists and Hydrogeologists",4
+2345,Life Scientists,4
+2346,Medical Laboratory Scientists,4
+2347,Veterinarians,4
+2349,Other Natural and Physical Science Professionals,4
+2411,Early Childhood (Pre-primary School) Teachers,4
+2412,Primary School Teachers,4
+2413,Middle School Teachers,4
+2414,Secondary School Teachers,4
+2415,Special Education Teachers,4
+2421,University Lecturers and Tutors,4
+2422,Vocational Education Teachers,4
+2491,Education Advisers and Reviewers,4
+2492,Private Tutors and Teachers,4
+2493,Teachers of English to Speakers of Other Languages,4
+2511,Nutrition Professionals,4
+2512,Medical Imaging Professionals,4
+2513,Occupational and Environmental Health Professionals,4
+2514,Optometrists and Orthoptists,4
+2515,Pharmacists,4
+2519,Other Health Diagnostic and Promotion Professionals,4
+2521,Chiropractors and Osteopaths,4
+2522,Complementary Health Therapists,4
+2523,Dental Practitioners,4
+2524,Occupational Therapists,4
+2525,Physiotherapists,4
+2526,Podiatrists,4
+2527,Audiologists and Speech Pathologists \ Therapists,4
+2531,General Practitioners and Resident Medical Officers,4
+2532,Anaesthetists,4
+2533,Specialist Physicians,4
+2534,Psychiatrists,4
+2535,Surgeons,4
+2539,Other Medical Practitioners,4
+2541,Midwives,4
+2542,Nurse Educators and Researchers,4
+2543,Nurse Managers,4
+2544,Registered Nurses,4
+2611,ICT Business and Systems Analysts,4
+2612,Multimedia Specialists and Web Developers,4
+2613,Software and Applications Programmers,4
+2621,"Database and Systems Administrators, and ICT Security Specialists",4
+2631,Computer Network Professionals,4
+2632,ICT Support and Test Engineers,4
+2633,Telecommunications Engineering Professionals,4
+2711,Barristers,4
+2712,Judicial and Other Legal Professionals,4
+2713,Solicitors,4
+2721,Counsellors,4
+2722,Ministers of Religion,4
+2723,Psychologists and Psychotherapists,4
+2724,Social Professionals,4
+2725,Social Workers,4
+2726,"Welfare, Recreation and Community Arts Workers",4
+3111,Agricultural Technicians,4
+3112,Medical Technicians,4
+3113,Primary Products Inspectors,4
+3114,Science Technicians,4
+3121,"Architectural, Building and Surveying Technicians",4
+3122,Civil Engineering Draftspersons and Technicians,4
+3123,"Electrical Engineering Draftspersons, Technicians",4
+3124,"Electronic Engineering Draftspersons, Technicians",4
+3125,"Mechanical Engineering Draftspersons, Technicians",4
+3126,Safety Inspectors,4
+3129,Other Building and Engineering Technicians,4
+3131,ICT Support Technicians,4
+3132,Telecommunications Technical Specialists,4
+3211,Automotive Electricians,4
+3212,Motor Mechanics,4
+3221,"Metal Casting, Forging and Finishing Trades",4
+3222,Sheetmetal Trades Workers,4
+3223,Structural Steel and Welding Trades Workers,4
+3231,Aircraft Maintenance Engineers,4
+3232,Metal Fitters and Machinists,4
+3233,Precision Metal Trades Workers,4
+3234,Toolmakers and Engineering Patternmakers,4
+3241,Panelbeaters,4
+3242,Vehicle Body Builders and Trimmers,4
+3243,Vehicle Painters,4
+3311,Bricklayers and Stonemasons,4
+3312,Carpenters and Joiners,4
+3321,Floor Finishers,4
+3322,Painting Trades Workers,4
+3331,Glaziers,4
+3332,Plasterers,4
+3333,Roof Tilers,4
+3334,Wall and Floor Tilers,4
+3341,Plumbers,4
+3411,Electricians,4
+3421,Airconditioning and Refrigeration Mechanics,4
+3422,Electrical Distribution Trades Workers,4
+3423,Electronics Trades Workers,4
+3424,Telecommunications Trades Workers,4
+3511,Bakers and Pastrycooks,4
+3512,Butchers and Smallgoods Makers,4
+3513,Chefs,4
+3514,Cooks,4
+3611,Animal Attendants and Trainers,4
+3612,Shearers,4
+3613,Veterinary Nurses,4
+3621,Florists,4
+3622,Gardeners,4
+3623,Greenkeepers,4
+3624,Nurserypersons,4
+3911,Hairdressers,4
+3921,Print Finishers and Screen Printers,4
+3922,Graphic Pre-press Trades Workers,4
+3923,Printers,4
+3931,Canvas and Leather Goods Makers,4
+3932,Clothing Trades Workers,4
+3933,Upholsterers,4
+3941,Cabinetmakers,4
+3942,Wood Machinists and Other Wood Trades Workers,4
+3991,Boat Builders and Shipwrights,4
+3992,"Chemical, Gas, Petroleum and Power Plant Operators",4
+3993,"Gallery, Library and Museum Technicians",4
+3994,Jewellers,4
+3995,Performing Arts Technicians,4
+3996,Signwriters,4
+3999,Other Miscellaneous Technicians and Trades Workers,4
+4111,Ambulance Officers and Paramedics,4
+4112,"Dental Hygienists, Technicians and Therapists",4
+4113,Diversional Therapists,4
+4114,Enrolled and Mothercraft Nurses,4
+4115,Indigenous Health Workers,4
+4116,Massage Therapists,4
+4117,Welfare Support Workers,4
+4211,Child Carers,4
+4221,Education Aides,4
+4231,Aged and Disabled Carers,4
+4232,Dental Assistants,4
+4233,Nursing Support and Personal Care Workers,4
+4234,Special Care Workers,4
+4311,Bar Attendants and Baristas,4
+4312,Cafe Workers,4
+4313,Gaming Workers,4
+4314,Hotel Service Managers,4
+4315,Waiters,4
+4319,Other Hospitality Workers,4
+4411,Defence Force Members - Other Ranks,4
+4412,Fire and Emergency Workers,4
+4413,Police,4
+4421,Prison Officers,4
+4422,Security Officers and Guards,4
+4511,Beauty Therapists,4
+4512,Driving Instructors,4
+4513,Funeral Workers,4
+4514,"Gallery, Museum and Tour Guides",4
+4515,Personal Care Consultants,4
+4516,Tourism and Travel Advisers,4
+4517,Travel Attendants,4
+4518,Other Personal Service Workers,4
+4521,Fitness Instructors,4
+4522,Outdoor Adventure Guides,4
+4523,"Sports Coaches, Instructors and Officials",4
+4524,Sportspersons,4
+5111,"Contract, Program and Project Administrators",4
+5121,Office Managers,4
+5122,Practice Managers,4
+5211,Personal Assistants,4
+5212,Secretaries,4
+5311,General Clerks,4
+5321,Keyboard Operators,4
+5411,Call or Contact Centre Workers,4
+5412,Information Officers,4
+5421,Receptionists,4
+5511,Accounting Clerks,4
+5512,Bookkeepers,4
+5513,Payroll Clerks,4
+5521,Bank Workers,4
+5522,Credit and Loans Officers,4
+5523,"Insurance, Money Market and Statistical Clerks",4
+5611,Betting Clerks,4
+5612,Couriers and Postal Deliverers,4
+5613,Filing and Registry Clerks,4
+5614,Mail Sorters,4
+5615,Survey Interviewers,4
+5616,Switchboard Operators,4
+5619,Other Clerical and Office Support Workers,4
+5911,Purchasing and Supply Logistics Clerks,4
+5912,Transport and Despatch Clerks,4
+5991,Conveyancers and Legal Executives,4
+5992,Court and Legal Clerks,4
+5993,Debt Collectors,4
+5994,Human Resource Clerks,4
+5995,Inspectors and Regulatory Officers,4
+5996,"Insurance Investigators, Loss Adjusters and Risk Surveyors",4
+5997,Library Assistants,4
+5999,Other Miscellaneous Clerical and Administrative Workers,4
+6111,"Auctioneers, and Stock and Station Agents",4
+6112,Insurance Agents,4
+6113,Sales Representatives,4
+6121,Real Estate Sales Agents,4
+6211,Sales Assistants (General),4
+6212,ICT Sales Assistants,4
+6213,Motor Vehicle and Vehicle Parts Salespersons,4
+6214,Pharmacy Sales Assistants,4
+6215,Retail Supervisors,4
+6216,Service Station Attendants,4
+6217,Street Vendors and Related Salespersons,4
+6219,Other Sales Assistants and Salespersons,4
+6311,Checkout Operators and Office Cashiers,4
+6391,Models and Sales Demonstrators,4
+6392,Retail and Wool Buyers,4
+6393,Telemarketers,4
+6394,Ticket Salespersons,4
+6395,Visual Merchandisers,4
+6399,Other Sales Support Workers,4
+7111,"Clay, Concrete, Glass and Stone Processing Machine Operators",4
+7112,Industrial Spraypainters,4
+7113,Paper and Wood Processing Machine Operators,4
+7114,Photographic Developers and Printers,4
+7115,Plastics and Rubber Production Machine Operators,4
+7116,Sewing Machinists,4
+7117,Textile and Footwear Production Machine Operators,4
+7119,Other Machine Operators,4
+7121,"Crane, Hoist and Lift Operators",4
+7122,"Drillers, Miners and Shot Firers",4
+7123,Engineering Production Workers,4
+7129,Other Stationary Plant Operators,4
+7211,"Agricultural, Forestry and Horticultural Plant Operators",4
+7212,Earthmoving Plant Operators,4
+7213,Forklift Drivers,4
+7219,Other Mobile Plant Operators,4
+7311,Automobile Drivers,4
+7312,Bus and Coach Drivers,4
+7313,Train and Tram Drivers,4
+7321,Delivery Drivers,4
+7331,Truck Drivers,4
+7411,Storepersons,4
+8111,Car Detailers,4
+8112,Commercial Cleaners,4
+8113,Domestic Cleaners,4
+8114,Housekeepers,4
+8115,Laundry Workers,4
+8116,Other Cleaners,4
+8211,Building and Plumbing Labourers,4
+8212,Concreters,4
+8213,Fencers,4
+8214,Insulation and Home Improvement Installers,4
+8215,Paving and Surfacing Labourers,4
+8216,Railway Track Workers,4
+8217,Structural Steel Construction Workers,4
+8219,Other Construction and Mining Labourers,4
+8311,Food and Drink Factory Workers,4
+8312,"Meat Boners and Slicers, and Slaughterers",4
+8313,"Meat, Poultry and Seafood Process Workers",4
+8321,Packers,4
+8322,Product Assemblers,4
+8391,Metal Engineering Process Workers,4
+8392,Plastics and Rubber Factory Workers,4
+8393,Product Quality Controllers,4
+8394,Timber and Wood Process Workers,4
+8399,Other Factory Process Workers,4
+8411,Aquaculture Workers,4
+8412,Crop Farm Workers,4
+8413,Forestry and Logging Workers,4
+8414,Garden and Nursery Labourers,4
+8415,Livestock Farm Workers,4
+8416,Mixed Crop and Livestock Farm Workers,4
+8419,"Other Farm, Forestry and Garden Workers",4
+8511,Fast Food Cooks,4
+8512,Food Trades Assistants,4
+8513,Kitchenhands,4
+8911,Freight and Furniture Handlers,4
+8912,Shelf Fillers,4
+8991,Caretakers,4
+8992,Deck and Fishing Hands,4
+8993,Handypersons,4
+8994,Motor Vehicle Parts and Accessories Fitters,4
+8995,Printing Assistants and Table Workers,4
+8996,Recycling and Rubbish Collectors,4
+8997,Vending Machine Attendants,4
+8999,Other Miscellaneous Labourers,4
+111211,Corporate General Managers,6
+111212,Defence Force Senior Officers,6
+111311,Local Government Legislators,6
+111312,Members of Parliament,6
+111399,Other Legislators,6
+121211,Cotton Growers,6
+121212,Flower Growers,6
+121213,Fruit and Nut Growers,6
+121214,"Grain, Oilseed and Pasture Growers",6
+121215,Grape Growers,6
+121216,Mixed Crop Farmers,6
+121217,Sugar Cane Growers,6
+121218,Turf Growers,6
+121221,Vegetable Growers,6
+121299,Other Crop Farmers,6
+121311,Beekeepers,6
+121312,Beef Cattle Farmers,6
+121313,Dairy Cattle Farmers,6
+121314,Deer Farmers,6
+121315,Goat Farmers,6
+121316,Horse Breeders,6
+121317,Mixed Livestock Farmers,6
+121318,Pig Farmers,6
+121321,Poultry Farmers,6
+121322,Sheep Farmers,6
+121399,Other Livestock Farmers,6
+131112,Sales and Marketing Managers,6
+131113,Advertising Managers,6
+131114,Public Relations Managers,6
+133111,Construction Project Managers,6
+133112,Project Builders,6
+133311,Importers and Exporters,6
+133312,Wholesalers,6
+133511,Forest Managers,6
+133512,Manufacturing Production Managers,6
+133513,Mine Managers,6
+133611,Supply and Distribution Managers,6
+133612,Procurement Managers,6
+134211,Medical Administrators,6
+134212,Nursing Clinical Directors,6
+134213,Primary Health Organisation Managers,6
+134214,Welfare Centre Managers,6
+134299,Other Health and Welfare Services Managers,6
+134411,Faculty Heads,6
+134412,Regional Education Managers,6
+134499,Education Managers (not covered elsewhere),6
+135111,Chief Information Officers,6
+135112,ICT Project Managers,6
+135199,Other ICT Managers,6
+139111,Commissioned Defence Force Officers,6
+139112,Commissioned Fire Officers,6
+139113,Commissioned Police Officers,6
+139911,Arts Administrators and Managers,6
+139912,Environmental Managers,6
+139913,Laboratory Managers,6
+139914,Quality Assurance Managers,6
+139915,Sports Administrators,6
+139999,Specialist Managers (not covered elsewhere),6
+141911,Bed and Breakfast Operators,6
+141912,Retirement Village Managers,6
+141999,Accommodation and Hospitality Managers (not covered elsewhere),6
+142111,Retail Managers (General),6
+142112,Antique Dealers,6
+142113,Betting Agency Managers,6
+142114,Hair and Beauty Salon Managers,6
+142115,Post Office Managers,6
+142116,Travel Agency Managers,6
+149111,Amusement Centre Managers,6
+149112,Fitness Centre Managers,6
+149113,Sports Centre Managers,6
+149211,Call Centre or Contact Centre Managers,6
+149212,Customer Service Managers,6
+149411,Fleet Managers,6
+149412,Railway Station Managers,6
+149413,Transport Company Managers,6
+149911,Boarding Kennel and Cattery Operators,6
+149912,Cinema and Theatre Managers,6
+149913,Facilities Managers,6
+149914,Bank Managers and Branch Managers,6
+149915,Equipment Hire Managers,6
+149999,"Hospitality, Retail and Service Managers (not covered elsewhere)",6
+211111,Actors,6
+211112,Dancers and Choreographers,6
+211113,Entertainers and Variety Artists,6
+211199,"Other Actors, Dancers and Entertainers",6
+211211,Composers,6
+211212,Music Directors,6
+211213,Musicians,6
+211214,Singers,6
+211299,Other Music Professionals,6
+211411,Painters (Visual Arts),6
+211412,Potters and Ceramic Artists,6
+211413,Sculptors,6
+211499,Other Visual Arts or Crafts Professionals,6
+212111,Artistic Directors,6
+212112,Media Producers,6
+212113,Radio Presenters,6
+212114,Television Presenters,6
+212211,Authors,6
+212212,Book and Script Editors,6
+212311,"Art Directors (Film, Television or Stage)",6
+212312,"Directors (Film, Television, Radio or Stage)",6
+212313,Cinematographers,6
+212314,Film and Video Editors,6
+212315,Program Directors (Television or Radio),6
+212316,Stage Managers,6
+212317,Technical Directors,6
+212318,Video Producers,6
+212399,"Other Film, Television, Radio and Stage Directors",6
+212411,Copywriters,6
+212412,Newspaper and Periodical Editors,6
+212413,Print Journalists,6
+212414,Radio Journalists,6
+212415,Technical Writers,6
+212416,Television Journalists,6
+212499,"Bloggers, Critics, Sports and Other Writers (not covered elsewhere)",6
+221111,Accountants (General),6
+221112,Management Accountants,6
+221113,Taxation Accountants,6
+221211,Company Secretaries,6
+221212,Corporate Treasurers,6
+221213,External Auditors,6
+221214,Internal Auditors,6
+222111,Commodities Traders,6
+222112,Finance Brokers,6
+222113,Insurance Brokers,6
+222199,Other Financial Brokers,6
+222211,Financial Market Dealers,6
+222212,Futures Traders,6
+222213,Stockbrokers,6
+222299,Other Financial Dealers,6
+222311,Financial Investment Advisers,6
+222312,Financial Investment Managers,6
+223111,Human Resource Advisers,6
+223112,Recruitment Consultants,6
+223113,Workplace Relations Advisers,6
+224111,Actuaries,6
+224112,Mathematicians,6
+224113,Statisticians,6
+224211,Archivists,6
+224212,Gallery and Museum Curators,6
+224213,Health Information Managers,6
+224214,Records Managers,6
+224411,Intelligence Officers,6
+224412,Policy Analysts,6
+224511,Land Economists,6
+224512,Valuers,6
+224711,Management Consultants,6
+224712,Organisation and Methods Analysts,6
+224911,Electorate Officers,6
+224912,Liaison Officers,6
+224913,Migration Agents,6
+224914,Patents Examiners,6
+224999,Information and Organisation Professionals (not covered elsewhere),6
+225111,Advertising Specialists,6
+225112,Market Research Analysts,6
+225113,Marketing Specialists,6
+225211,ICT Account Managers,6
+225212,ICT Business Development Managers,6
+225213,ICT Sales Representatives,6
+225411,Sales Representatives (Industrial Products),6
+225412,Sales Representatives (Medical and Pharmaceutical Products),6
+225499,Other Technical Sales Representatives,6
+231111,Aeroplane Pilots,6
+231112,Air Traffic Controllers,6
+231113,Flying Instructors,6
+231114,Helicopter Pilots,6
+231199,Other Air Transport Professionals,6
+231211,Master Fishers,6
+231212,Marine Engineers,6
+231213,Ship's Masters,6
+231214,Ship's Officers,6
+231215,Marine Surveyors,6
+231299,Other Marine Transport Professionals,6
+232111,Architects,6
+232112,Landscape Architects,6
+232212,Surveyors,6
+232213,Cartographers,6
+232214,Other Spatial Scientists,6
+232311,Fashion Designers,6
+232312,Industrial Designers,6
+232313,Jewellery Designers,6
+232411,Graphic Designers,6
+232412,Illustrators (including Animators),6
+232413,Multimedia Designers,6
+232414,Web Designers,6
+233111,Chemical Engineers,6
+233112,Materials Engineers,6
+233211,Civil Engineers,6
+233212,Geotechnical Engineers,6
+233213,Quantity Surveyors,6
+233214,Structural Engineers,6
+233215,Transport Engineers,6
+233511,Industrial Engineers,6
+233512,Mechanical Engineers,6
+233513,Production and Plant Engineers,6
+233611,Mining Engineers (excluding Petroleum),6
+233612,Petroleum Engineers,6
+233911,Aeronautical Engineers,6
+233912,Agricultural Engineers,6
+233913,Biomedical Engineers,6
+233914,Engineering Technologists,6
+233915,Environmental Engineers,6
+233916,Naval Architects,6
+233999,Engineering Professionals (not covered elsewhere),6
+234111,Agricultural Consultants,6
+234112,Agricultural Scientists,6
+234113,Foresters,6
+234211,Chemists,6
+234212,Food Technologists,6
+234213,Wine Makers,6
+234311,Conservation Officers,6
+234312,Environmental Consultants,6
+234313,Environmental Research Scientists,6
+234314,Park Rangers,6
+234399,Other Environmental Scientists,6
+234411,Geologists,6
+234412,Geophysicists,6
+234413,Hydrogeologists,6
+234511,Biologists,6
+234513,Biochemists,6
+234514,Biotechnologists,6
+234515,Botanists,6
+234516,Marine Biologists,6
+234517,Microbiologists,6
+234518,Zoologists,6
+234599,Other Life Scientists,6
+234911,Conservators,6
+234912,Metallurgists,6
+234913,Meteorologists,6
+234914,Physicists (including Astronomers),6
+234915,Exercise Physiologists,6
+234999,Natural and Physical Science Professionals (not covered elsewhere),6
+241511,Special Needs Teachers,6
+241512,Teachers of the Hearing Impaired,6
+241513,Teachers of the Sight Impaired,6
+241599,Other Special Education Teachers,6
+242111,University Lecturers,6
+242112,University Tutors,6
+249111,Education Advisers,6
+249112,Education Reviewers,6
+249211,Art Teachers (Private Tuition),6
+249212,Dance Teachers (Private Tuition),6
+249213,Drama Teachers (Private Tuition),6
+249214,Music Teachers (Private Tuition),6
+249299,Other Private Tutors and Teachers,6
+251111,Dietitians,6
+251112,Nutritionists,6
+251211,Medical Diagnostic Radiographers,6
+251212,Medical Radiation Therapists,6
+251213,Nuclear Medicine Technologists,6
+251214,Sonographers,6
+251311,Environmental Health Officers,6
+251312,Occupational Health and Safety Advisers,6
+251411,Optometrists,6
+251412,Orthoptists,6
+251511,Hospital Pharmacists,6
+251512,Industrial Pharmacists,6
+251513,Retail Pharmacists,6
+251911,Health Promotion Officers,6
+251912,Orthotists and Prosthetists,6
+251999,Genetic Counsellors (and Other Health Professionals not covered elsewhere),6
+252111,Chiropractors,6
+252112,Osteopaths,6
+252211,Acupuncturists,6
+252212,Homoeopaths,6
+252213,Naturopaths,6
+252214,Chinese Medicine Practitioners,6
+252299,"Music, Dance, Drama, Play, Hypnotic, and Related Therapists",6
+252311,Dental Specialists (including Orthodontists),6
+252312,Dentists,6
+252711,Audiologists,6
+252712,Speech Pathologists,6
+253111,General Practitioners,6
+253112,Resident Medical Officers,6
+253311,Specialist Physicians (General Medicine),6
+253312,Cardiologists,6
+253313,Clinical Haematologists,6
+253314,Medical Oncologists,6
+253315,Endocrinologists,6
+253316,Gastroenterologists,6
+253317,Intensive Care Specialists,6
+253318,Neurologists,6
+253321,Paediatricians,6
+253322,Renal Medicine Specialists,6
+253323,Rheumatologists,6
+253324,Thoracic Medicine Specialists,6
+253399,Other Specialist Physicians,6
+253511,Surgeons (General),6
+253512,Cardiothoracic Surgeons,6
+253513,Neurosurgeons,6
+253514,Orthopaedic Surgeons,6
+253515,"Ear, Nose and Throat Specialists",6
+253516,Paediatric Surgeons,6
+253517,Plastic and Reconstructive Surgeons,6
+253518,Urologists,6
+253521,Vascular Surgeons,6
+253911,Dermatologists,6
+253912,Emergency Medicine Specialists,6
+253913,Obstetricians and Gynaecologists,6
+253914,Eye Specialists,6
+253915,Pathologists,6
+253917,Diagnostic and Interventional Radiologists,6
+253918,Radiation Oncologists,6
+253999,Medical Practitioners (not covered elsewhere),6
+254211,Nurse Educators,6
+254212,Nurse Researchers,6
+254411,Nurse Practitioners,6
+254412,Registered Nurses (Aged Care),6
+254413,Registered Nurses (Child and Family Health),6
+254414,Registered Nurses (Community Health),6
+254415,Registered Nurses (Critical Care and Emergency),6
+254416,Registered Nurses (Developmental Disability),6
+254417,Registered Nurses (Disability and Rehabilitation),6
+254418,Registered Nurses (Medical),6
+254421,Registered Nurses (Medical Practice),6
+254422,Registered Nurses (Mental Health),6
+254423,Registered Nurses (Perioperative),6
+254424,Registered Nurses (Surgical),6
+254425,Registered Nurses (Paediatrics),6
+254499,Registered Nurses (not covered elsewhere),6
+261111,ICT Business Analysts,6
+261112,Systems Analysts,6
+261211,Game and Multimedia Developers,6
+261212,Web Developers,6
+261311,Analyst Programmers,6
+261312,Developer Programmers,6
+261313,Software Engineers,6
+261314,Software Testers,6
+261399,Other Software and Applications Programmers,6
+262111,Database Administrators,6
+262112,ICT Security Specialists,6
+262113,Systems Administrators,6
+263111,Computer Network and Systems Engineers,6
+263112,Network Administrators,6
+263113,Network Analysts,6
+263211,ICT Quality Assurance Engineers,6
+263212,ICT Support Engineers,6
+263213,ICT Systems Test Engineers,6
+263299,Other ICT Support and Test Engineers,6
+263311,Telecommunications Engineers,6
+263312,Telecommunications Network Engineers,6
+271211,Judges,6
+271212,Magistrates,6
+271213,Tribunal Members,6
+271214,Intellectual Property Lawyers,6
+271299,Judicial and Other Legal Professionals (not covered elsewhere),6
+272111,Careers Counsellors,6
+272112,Drug and Alcohol Counsellors,6
+272113,Family and Marriage Counsellors,6
+272114,Rehabilitation Counsellors,6
+272115,Student Counsellors,6
+272199,Other Counsellors and Life Coaches,6
+272311,Clinical Psychologists,6
+272312,Educational Psychologists,6
+272313,Organisational Psychologists,6
+272314,Psychotherapists,6
+272399,Other Psychologists,6
+272411,Historians,6
+272412,Interpreters,6
+272413,Translators,6
+272414,Archaeologists,6
+272499,Other Social Professionals,6
+272611,Community Arts Workers,6
+272612,Recreation Officers,6
+272613,Welfare Workers,6
+311211,Anaesthetic Technicians,6
+311212,Cardiac Technicians,6
+311213,Medical Laboratory Technicians,6
+311214,Operating Theatre Technicians,6
+311215,Pharmacy Technicians,6
+311216,Pathology Collectors,6
+311299,Other Medical Technicians,6
+311311,Fisheries Officers,6
+311312,Meat Inspectors,6
+311313,Quarantine Officers,6
+311399,Other Primary Products Inspectors,6
+311411,Chemistry Technicians,6
+311412,Earth Science Technicians,6
+311413,Life Science Technicians,6
+311414,School Laboratory Technicians,6
+311415,Hydrographers,6
+311499,Other Science Technicians,6
+312111,Architectural Draftspersons,6
+312112,Building Associates,6
+312113,Building Inspectors,6
+312114,Construction Estimators,6
+312115,Plumbing Inspectors,6
+312116,Surveying and Spatial Science Technicians,6
+312199,"Other Architectural, Building and Surveying Technicians",6
+312211,Civil Engineering Draftspersons,6
+312212,Civil Engineering Technicians,6
+312311,Electrical Engineering Draftspersons,6
+312312,Electrical Engineering Technicians,6
+312411,Electronic Engineering Draftspersons,6
+312412,Electronic Engineering Technicians,6
+312511,Mechanical Engineering Draftspersons,6
+312512,Mechanical Engineering Technicians,6
+312911,Maintenance Planners,6
+312912,Metallurgical and Materials Technicians,6
+312913,Mine Deputies,6
+312999,Building and Engineering Technicians (not covered elsewhere),6
+313111,Hardware Technicians,6
+313112,ICT Customer Support Officers,6
+313113,Web Administrators,6
+313199,Other ICT Support Technicians,6
+313211,Radiocommunications Technicians,6
+313212,Telecommunications Field Engineers,6
+313213,Telecommunications Network Planners,6
+313214,Telecommunications Technical Officers and Technologists,6
+321211,Motor Mechanics (General),6
+321212,Diesel Motor Mechanics,6
+321213,Motorcycle Mechanics,6
+321214,Small Engine Mechanics,6
+322111,Blacksmiths,6
+322112,Electroplaters,6
+322113,Farriers,6
+322114,Metal Casting Trades Workers,6
+322115,Metal Polishers,6
+322311,Metal Fabricators,6
+322312,Pressure Welders,6
+322313,Welders (First Class),6
+323111,Aircraft Maintenance Engineers (Avionics),6
+323112,Aircraft Maintenance Engineers (Mechanical),6
+323113,Aircraft Maintenance Engineers (Structures),6
+323211,Fitters (General),6
+323212,Fitter and Turners,6
+323213,Fitter-Welders,6
+323214,Metal Machinists (First Class),6
+323215,"Textile, Clothing and Footwear Mechanics",6
+323299,Other Metal Fitters and Machinists,6
+323311,Engravers,6
+323312,Gunsmiths,6
+323313,Locksmiths,6
+323314,Precision Instrument Makers and Repairers,6
+323315,Saw Doctors,6
+323316,Watch and Clock Makers and Repairers,6
+323411,Engineering Patternmakers,6
+323412,Toolmakers,6
+324211,Vehicle Body Builders,6
+324212,Vehicle Trimmers,6
+331111,Bricklayers,6
+331112,Stonemasons,6
+331212,Carpenters,6
+331213,Joiners,6
+333211,Fibrous Plasterers,6
+333212,Solid Plasterers,6
+334111,Plumbers (General),6
+334112,Airconditioning and Mechanical Services Plumbers,6
+334113,Drainers,6
+334114,Gasfitters,6
+334115,Roof Plumbers,6
+341111,Electricians (General),6
+341112,Electricians (Special Class),6
+341113,Lift Mechanics,6
+342211,Electrical Linesworkers,6
+342212,Technical Cable Jointers,6
+342311,Business Machine Mechanics,6
+342312,Communications Operators,6
+342313,Electronic Equipment Trades Workers,6
+342314,Electronic Instrument Trades Workers (General),6
+342315,Electronic Instrument Trades Workers (Special Class),6
+342411,Cablers (Data and Telecommunications),6
+342412,Telecommunications Cable Jointers,6
+342413,Telecommunications Linesworkers,6
+342414,Telecommunications Technicians,6
+351111,Bakers,6
+351112,Pastrycooks,6
+361111,Dog Handlers and Trainers,6
+361112,Horse Trainers,6
+361113,Pet Groomers,6
+361114,Zookeepers,6
+361115,Kennel Hands,6
+361199,Other Animal Attendants and Trainers,6
+362211,Gardeners (General),6
+362212,Arborists,6
+362213,Landscape Gardeners,6
+392111,Print Finishers,6
+392112,Screen Printers,6
+392311,Printing Machinists,6
+392312,Small Offset Printers,6
+393111,Canvas Goods Fabricators,6
+393112,Leather Goods Makers,6
+393113,Sail Makers,6
+393114,Shoemakers,6
+393211,Apparel Cutters,6
+393212,Clothing Patternmakers,6
+393213,Dressmakers and Tailors,6
+393299,Other Clothing Trades Workers,6
+394211,Furniture Finishers,6
+394212,Picture Framers,6
+394213,Wood Machinists,6
+394214,Wood Turners,6
+394299,Other Wood Machinists and Wood Trades Workers,6
+399111,Boat Builders and Repairers,6
+399112,Shipwrights,6
+399211,Chemical Plant Operators,6
+399212,Gas and Petroleum Operators,6
+399213,Power Generation Plant Operators,6
+399311,Gallery and Museum Technicians,6
+399312,Library Technicians,6
+399511,Broadcast Transmitter Operators,6
+399512,"Camera Operators (Film, Television or Video)",6
+399513,Light Technicians,6
+399514,Make Up Artists,6
+399515,Musical Instrument Makers and Repairers,6
+399516,Sound Technicians,6
+399517,Television Equipment Operators,6
+399599,Other Performing Arts Technicians,6
+399911,Divers,6
+399912,Interior Decorators,6
+399913,Optical Dispensers,6
+399914,Optical Mechanics,6
+399915,Photographer's Assistants,6
+399916,Plastics Technicians,6
+399917,Wool Classers,6
+399918,Fire Protection Equipment Technicians,6
+399999,Technicians and Trades Workers (not covered elsewhere),6
+411111,Ambulance Officers,6
+411112,Intensive Care Ambulance Paramedics,6
+411211,Dental Hygienists,6
+411212,Dental Prosthetists,6
+411213,Dental Technicians,6
+411214,Dental Therapists,6
+411411,Enrolled Nurses,6
+411412,Mothercraft Nurses,6
+411711,Community Workers,6
+411712,Disabilities Services Officers,6
+411713,Family Support Workers,6
+411714,Parole and Probation Officers,6
+411715,Residential Care Officers,6
+411716,Youth Workers,6
+421111,Child Care Workers,6
+421112,Family Day Care Workers,6
+421113,Nannies,6
+421114,Out of School Hours Care Workers,6
+422111,Aboriginal and Torres Strait Islander Education Workers,6
+422112,Integration Aides,6
+422115,Preschool Aides,6
+422116,Teachers' Aides,6
+423311,Hospital orderlies,6
+423312,Nursing Support Workers,6
+423313,Personal Care Assistants,6
+423314,Therapy Aides,6
+423411,Child and Youth Residential Care Assistants,6
+423412,Hostel Parents,6
+423413,Refuge Workers,6
+431111,Bar Attendants,6
+431112,Baristas,6
+431911,Bar Usefuls and Bussers,6
+431912,Doorpersons and Luggage Porters,6
+431999,Hospitality Workers (not covered elsewhere),6
+441211,Emergency Service Workers,6
+441212,Fire Fighters,6
+441311,Detectives,6
+441312,Police Officers,6
+442211,"Alarm, Security and Surveillance Monitors",6
+442212,Armoured Car Escorts,6
+442213,Crowd Controllers,6
+442214,Private Investigators,6
+442215,Retail Loss Prevention Officers,6
+442216,Security Consultants,6
+442217,Security Officers,6
+442299,Other Security Workers,6
+451311,Funeral Directors,6
+451399,Funeral Workers (Other),6
+451411,Gallery and Museum Guides,6
+451412,Tour Guides,6
+451511,Natural Remedy Consultants,6
+451512,Weight Loss Consultants,6
+451513,Herbalists (Western),6
+451611,Tourist Information Officers,6
+451612,Travel Consultants,6
+451711,Flight Attendants,6
+451799,Other Travel Attendants,6
+451811,Civil Celebrants,6
+451812,Hair and Beauty Salon Assistants,6
+451814,Body Artists,6
+451815,First Aid Trainers,6
+451816,Religious Assistants,6
+451899,Personal Service Workers (not covered elsewhere),6
+452211,Bungy Jump Masters,6
+452212,Fishing Guides,6
+452213,Hunting Guides,6
+452214,Mountain and Glacier Guides,6
+452215,Outdoor Adventure Instructors,6
+452216,Trekking Guides,6
+452217,Whitewater Rafting Guides,6
+452299,Other Outdoor Adventure Guides,6
+452311,"Scuba, Snorkelling and Dive instructors",6
+452312,Gymnastics Coaches and Instructors,6
+452313,Horse Riding Coaches and Instructors,6
+452314,Snowsport Instructors,6
+452315,Swimming Coaches and Instructors,6
+452316,Tennis Coaches,6
+452317,Other Sports Coaches and Instructors,6
+452318,Dog and Horse Racing Officials,6
+452321,Sports Development Officers,6
+452322,Sports Umpires,6
+452323,Other Sports Officials,6
+452411,"Footballers (Soccer, Rugby and AFL)",6
+452412,Golfers,6
+452413,Jockeys,6
+452414,Lifeguards,6
+452499,Other Sportspersons,6
+511111,Contract Administrators,6
+511112,Program and Project Administrators,6
+512211,Health Practice Managers,6
+512299,Other Practice Managers,6
+521211,Secretaries (General),6
+521212,Legal Secretaries,6
+532111,Data Entry Operators,6
+532112,Machine Shorthand Reporters,6
+532113,Typists,6
+541111,Call Centre or Contact Centre Team Leaders,6
+541112,Call Centre or Contact Centre Operators,6
+542111,Receptionists (General),6
+542112,Admissions Clerks,6
+542113,Hotel and Motel Receptionists,6
+542114,Medical Receptionists,6
+551111,Accounts Clerks,6
+551112,Cost Clerks,6
+552311,Bookmakers,6
+552312,Insurance Consultants,6
+552313,Money Market Clerks,6
+552314,Statistical Clerks,6
+561111,Betting Agency Counter Clerks,6
+561112,Bookmaker's Clerks,6
+561113,Telephone Betting Clerks,6
+561199,Other Betting Clerks,6
+561211,Couriers,6
+561212,Postal Delivery Officers,6
+561411,Mail Clerks,6
+561412,Postal Sorting Officers,6
+561911,Classified Advertising Clerks,6
+561912,Meter Readers,6
+561913,Parking Inspectors,6
+561999,Clerical and Office Support Workers (not covered elsewhere),6
+591112,Production Clerks,6
+591113,Purchasing Officers,6
+591115,Stock Clerks,6
+591116,Warehouse Administrators,6
+591117,Order Clerks,6
+591211,Despatching and Receiving Clerks,6
+591212,Import-Export Clerks,6
+599111,Conveyancers,6
+599112,Legal Executives,6
+599211,Clerks of Court,6
+599212,Court Bailiffs and Sheriffs,6
+599213,Court Orderlies,6
+599214,Law Clerks,6
+599215,Trust Officers,6
+599511,Customs Officers,6
+599512,Immigration Officers,6
+599513,Motor Vehicle Licence Examiners,6
+599514,Noxious Weeds and Pest Inspectors,6
+599515,Social Security Assessors,6
+599516,Taxation Inspectors,6
+599517,Train Examiners,6
+599518,Transport Operations Inspectors,6
+599521,Water Inspectors,6
+599599,Other Inspectors and Regulatory Officers,6
+599611,Insurance Investigators,6
+599612,Insurance Loss Adjusters,6
+599613,Insurance Risk Surveyors,6
+599912,"Production Assistants (Film, Television, Radio or Stage)",6
+599913,Proof Readers,6
+599914,Radio Despatchers,6
+599915,Clinical Coders,6
+599916,Facilities Administrators,6
+599999,Clerical and Administrative Workers (not covered elsewhere),6
+611111,Auctioneers,6
+611112,Stock and Station Agents,6
+611311,Sales Representatives (Building and Plumbing Supplies),6
+611312,Sales Representatives (Business Services),6
+611313,Sales Representatives (Motor Vehicle Parts and Accessories),6
+611314,Sales Representatives (Personal and Household Goods),6
+611399,Other Sales Representatives,6
+612111,Business Brokers,6
+612112,Property Managers,6
+612113,Real Estate Agency Principals,6
+612114,Real Estate Agents,6
+612115,Real Estate Representatives,6
+621311,Motor Vehicle and Caravan Salespersons,6
+621312,Motor Vehicle Parts Interpreters,6
+621711,Cash Van Salespersons,6
+621712,Door-to-door Salespersons,6
+621713,Street Vendors,6
+621911,Materials Recyclers,6
+621912,Rental Salespersons,6
+621999,Sales Assistants and Salespersons (not covered elsewhere),6
+631111,Checkout Operators,6
+631112,Cashiers,6
+639111,Models,6
+639112,Sales Demonstrators,6
+639211,Retail Buyers,6
+639212,Wool Buyers,6
+639411,Ticket Sellers,6
+639412,Transport Conductors,6
+711111,Clay Products Machine Operators,6
+711112,Concrete Products Machine Operators,6
+711113,Glass Production Machine Operators,6
+711114,Stone Processing Machine Operators,6
+711199,"Other Clay, Concrete, Glass and Stone Processing Machine Operators",6
+711311,Paper Products Machine Operators,6
+711313,Sawmilling Operators,6
+711314,Other Wood Processing Machine Operators,6
+711511,Plastic Cablemaking Machine Operators,6
+711512,Plastic Compounding and Reclamation Machine Operators,6
+711513,Plastics Fabricators and Welders,6
+711514,Plastics Production Machine Operators (General),6
+711515,Reinforced Plastic and Composite Production Workers,6
+711516,Rubber Production Machine Operators,6
+711599,Other Plastics and Rubber Production Machine Operators,6
+711711,Footwear Production Machine Operators,6
+711712,Hide and Skin Processing Machine Operators,6
+711713,Knitting Machine Operators,6
+711714,Textile Dyeing and Finishing Machine Operators,6
+711715,Weaving Machine Operators,6
+711716,Yarn Carding and Spinning Machine Operators,6
+711799,Other Textile and Footwear Production Machine Operators,6
+711911,Chemical Production Machine Operators,6
+711912,Motion Picture Projectionists,6
+711913,Sand Blasters,6
+711914,Sterilisation Technicians,6
+711999,Machine Operators (not covered elsewhere),6
+712211,Drillers,6
+712212,Miners,6
+712213,Shot Firers,6
+712911,Boiler and Engine Operators,6
+712912,Bulk Materials Handling Plant Operators,6
+712913,Cement Production Plant Operators,6
+712914,Concrete Batching Plant Operators,6
+712915,Concrete Pump Operators,6
+712916,Paper and Pulp Mill Operators,6
+712917,Railway Signal Operators,6
+712918,Train Controllers,6
+712921,Waste Water and Water Plant Operators,6
+712922,Weighbridge Operators,6
+712999,Stationary Plant Operators (not covered elsewhere),6
+721111,Agricultural and Horticultural Mobile Plant Operators,6
+721112,Logging Plant Operators,6
+721211,Earthmoving Plant Operators (General),6
+721212,Backhoe Operators,6
+721213,Bulldozer Operators,6
+721214,Excavator Operators,6
+721215,Grader Operators,6
+721216,Loader Operators,6
+721911,Aircraft Baggage Handlers and Airline Ground Crews,6
+721912,Linemarkers,6
+721913,Paving Plant Operators,6
+721914,Railway Track Plant Operators,6
+721915,Road Roller Operators,6
+721916,Streetsweeper Operators,6
+721999,Mobile Plant Operators (not covered elsewhere),6
+731111,Chauffeurs,6
+731112,Taxi Drivers,6
+731199,Other Automobile Drivers,6
+731211,Bus Drivers,6
+731212,Charter and Tour Bus Drivers,6
+731213,Passenger Coach Drivers,6
+731311,Train Drivers,6
+731312,Tram Drivers,6
+733111,Truck Drivers (General),6
+733112,Aircraft Refuellers,6
+733113,Furniture Removalist Drivers,6
+733114,Tanker Drivers,6
+733115,Tow Truck Drivers,6
+811411,Commercial Housekeepers,6
+811412,Domestic Housekeepers,6
+811511,Laundry Workers (General),6
+811512,Drycleaners,6
+811513,Ironers and Pressers,6
+811611,Carpet Cleaners,6
+811612,Window Cleaners,6
+811699,Cleaners (not covered elsewhere),6
+821111,Builder's Labourers,6
+821112,"Drainage, Sewerage and Stormwater Labourers",6
+821113,Earthmoving Labourers,6
+821114,Plumber's Assistants,6
+821411,Building Insulation Installers,6
+821412,Home Improvement Installers,6
+821711,Construction Riggers,6
+821712,Scaffolders,6
+821713,Steel Fixers,6
+821714,Structural Steel Erectors,6
+821911,Crane Chasers,6
+821912,Driller's Assistants,6
+821913,Laggers,6
+821914,Mining Support Workers,6
+821915,Surveyor's Assistants,6
+831111,Baking Factory Workers,6
+831112,Brewery Workers,6
+831113,Confectionery Makers,6
+831114,Dairy Products Makers,6
+831115,Fruit and Vegetable Factory Workers,6
+831116,Grain Mill Workers,6
+831117,Sugar Mill Workers,6
+831118,Winery Cellar Hands,6
+831199,Other Food and Drink Factory Workers,6
+831211,Meat Boners and Slicers,6
+831212,Slaughterers,6
+831311,Meat Process Workers,6
+831312,Poultry Process Workers,6
+831313,Seafood Process Workers,6
+832111,Chocolate Packers,6
+832112,Container Fillers,6
+832113,Fruit and Vegetable Packers,6
+832114,Meat Packers,6
+832115,Seafood Packers,6
+832199,Other Packers,6
+839211,Plastics Factory Workers,6
+839212,Rubber Factory Workers,6
+839311,Product Examiners,6
+839312,Product Graders,6
+839313,Product Testers,6
+839411,Paper and Pulp Mill Workers,6
+839412,Sawmill and Timber Yard Workers,6
+839413,Wood and Wood Products Factory Workers,6
+839911,Cement and Concrete Plant Workers,6
+839912,Chemical Plant Workers,6
+839913,Clay Processing Factory Workers,6
+839914,Fabric and Textile Factory Workers,6
+839915,Footwear Factory Workers,6
+839916,Glass Processing Workers,6
+839917,Hide and Skin Processing Workers,6
+839918,Recycling Workers,6
+839999,Factory Process Workers (not covered elsewhere),6
+841211,Fruit and Nut Farm Workers,6
+841212,Fruit and Nut Pickers,6
+841213,"Grain, Oilseed and Pasture Farm Workers",6
+841214,Vegetable Farm Workers,6
+841215,Vegetable Pickers,6
+841216,Vineyard Workers,6
+841217,Mushroom Pickers,6
+841299,Other Crop Farm Workers,6
+841311,Forestry Workers,6
+841312,Logging Assistants,6
+841313,Tree Fallers,6
+841411,Garden Labourers,6
+841412,Nursery Hands (Horticulture),6
+841511,Beef Cattle Farm Workers,6
+841512,Dairy Cattle Farm Workers,6
+841513,Mixed Livestock Farm Workers,6
+841514,Poultry Farm Workers,6
+841515,Sheep Farm Workers,6
+841516,Stablehands,6
+841517,Wool Handlers,6
+841599,Other Livestock Farm Workers,6
+841911,Hunter-Trappers,6
+841913,Pest Controllers,6
+841999,"Farm, Forestry and Garden Workers (not covered elsewhere)",6
+851211,Pastrycook's Assistants,6
+851299,Other Food Trades Assistants,6
+891111,Freight Handlers (Rail or Road),6
+891112,Truck Driver's Offsiders,6
+891113,Waterside Workers,6
+899211,Deck Hands,6
+899212,Fishing Hands,6
+899411,Motor Vehicle Parts and Accessories Fitters (General),6
+899412,Autoglaziers,6
+899413,Exhaust and Muffler Repairers,6
+899414,Radiator Repairers,6
+899415,Tyre Fitters,6
+899511,Printer's Assistants,6
+899512,Printing Table Workers,6
+899911,Bicycle Mechanics,6
+899912,Car Park Attendants,6
+899913,Crossing Supervisors,6
+899914,Electrical and Telecommunications Trades Assistants,6
+899915,Leaflet and Newspaper Deliverers,6
+899916,Mechanic's Assistants,6
+899917,Railways Assistants,6
+899918,Sign Erectors,6
+899921,Ticket Collectors and Ushers,6
+899922,Trolley Collectors,6
+899923,Road Traffic Controllers,6
+899999,Labourers (not covered elsewhere),6
